@@ -761,15 +761,15 @@ input {
     fill: transparent;
 }
 
-.checkbox-input:checked+.checkbox-label-icon {
+.checkbox-input:checked+.checkbox-label .checkbox {
     background-color: #404bbf;
 }
 
-.checkbox-input:checked+.checkbox-label-icon {
+.checkbox-input:checked+.checkbox-label .checkbox {
     border: none;
 }
 
-.checkbox-input:checked+.checkbox-label-icon {
+.checkbox-input:checked+.checkbox-label .checkbox {
     fill: #F4F4FD;
 }
 
