@@ -763,7 +763,13 @@ input {
 
 .checkbox-input:checked+.checkbox-label-icon {
     background-color: #404bbf;
+}
+
+.checkbox-input:checked+.checkbox-label-icon {
     border: none;
+}
+
+.checkbox-input:checked+.checkbox-label-icon {
     fill: #F4F4FD;
 }
 
