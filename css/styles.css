@@ -625,7 +625,6 @@ input {
 .modal-button-close:focus {
     border: none;
     background-color: #404bbf;
-    border: 1px solid #404bbf;
 }
 
 .modal-icon-close {
@@ -762,7 +761,7 @@ input {
     fill: transparent;
 }
 
-.checkbox-input:checked.checkbox-label-icon {
+.checkbox-input:checked+.checkbox-label-icon {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
