@@ -769,7 +769,7 @@ input {
     border: none;
 }
 
-.checkbox-input:checked+.checkbox-label .checkbox {
+.checkbox-input:checked+.checkbox-label .checkbox .checkbox-label-icon {
     fill: #F4F4FD;
 }
 
