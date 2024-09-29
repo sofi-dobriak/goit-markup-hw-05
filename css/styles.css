@@ -436,6 +436,10 @@ input {
     max-width: 264px;
 }
 
+.footer-social-container {
+    margin-right: 80px;
+}
+
 .footer-social-list {
     display: flex;
     gap: 16px;
@@ -481,11 +485,6 @@ input {
 .footer-form {
     display: flex;
     gap: 24px;
-}
-
-.footer-social-form-container {
-    display: flex;
-    gap: 80px;
 }
 
 .footer-form-input {
